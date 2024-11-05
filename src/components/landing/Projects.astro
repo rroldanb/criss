@@ -7,7 +7,7 @@ import projects from '@data/projects.json'
     projects.map((project, index) => (
         
         <div 
-            class={`flex text-justify md:text-left md:my-8 flex-col md:flex-row ${index % 2 !== 0 ? 'md:flex-row-reverse' : ''} rounded-lg py-4 h-[100vh] md:h-auto ${index % 2 !== 0 ? 'bg-gradient-to-r from-teal-800 to-green-800' : 'bg-gradient-to-r from-purple-800 to-teal-800'}`}
+            class={`flex text-justify md:text-left md:my-8 flex-col  ${index % 2 !== 0 ? 'md:flex-row-reverse' : 'md:flex-row'} rounded-lg py-4 h-[100vh] md:h-auto ${index % 2 !== 0 ? 'bg-gradient-to-r from-teal-800 to-green-800' : 'bg-gradient-to-r from-purple-800 to-teal-800'}`}
         >
             <div class="flex-2">
                 <img src={project.image} alt={`Imagen ${project.title}`} class="w-40 md:w-60 m-auto" />
