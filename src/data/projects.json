@@ -1,6 +1,6 @@
 [
     {
-        "title":"Proyecto 1",
+        "title":"Testimonio 1",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero hic praesentium deserunt, dignissimos nesciunt natus omnis corporis? Suscipit dolorem voluptatibus ullam eius, corrupti consectetur maxime vel magni architecto distinctio fugiat labore quis totam iure cumque beatae maiores accusamus tenetur, obcaecati eligendi commodi error molestias numquam! Similique modi beatae repudiandae officiis.",
         "image":"images/juez.svg",
         "backgroundGradient": "bg-gradient-to-r from-purple-500 to-indigo-500",
@@ -9,7 +9,7 @@
         "imageClass": "w-40 md:w-60 m-auto"
     },
     {
-        "title":"Proyecto 2",
+        "title":"Testimonio 2",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero hic praesentium deserunt, dignissimos nesciunt natus omnis corporis? Suscipit dolorem voluptatibus ullam eius, corrupti consectetur maxime vel magni architecto distinctio fugiat labore quis totam iure cumque beatae maiores accusamus tenetur, obcaecati eligendi commodi error molestias numquam! Similique modi beatae repudiandae officiis.",
         "image":"images/juez.svg",
         "backgroundGradient": "bg-gradient-to-r from-green-400 to-teal-500",
@@ -18,7 +18,7 @@
         "imageClass": "w-40 md:w-60 m-auto"
     },
     {
-        "title":"Proyecto 3",
+        "title":"Testimonio 3",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero hic praesentium deserunt, dignissimos nesciunt natus omnis corporis? Suscipit dolorem voluptatibus ullam eius, corrupti consectetur maxime vel magni architecto distinctio fugiat labore quis totam iure cumque beatae maiores accusamus tenetur, obcaecati eligendi commodi error molestias numquam! Similique modi beatae repudiandae officiis.",
         "image":"images/juez.svg",
         "backgroundGradient": "bg-gradient-to-r from-purple-500 to-indigo-500",
@@ -27,7 +27,7 @@
         "imageClass": "w-40 md:w-60 m-auto"
     },
     {
-        "title":"Proyecto 4",
+        "title":"Testimonio 4",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero hic praesentium deserunt, dignissimos nesciunt natus omnis corporis? Suscipit dolorem voluptatibus ullam eius, corrupti consectetur maxime vel magni architecto distinctio fugiat labore quis totam iure cumque beatae maiores accusamus tenetur, obcaecati eligendi commodi error molestias numquam! Similique modi beatae repudiandae officiis.",
         "image":"images/juez.svg",
         "backgroundGradient": "bg-gradient-to-r from-pink-500 to-red-500",
